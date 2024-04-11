@@ -15,3 +15,8 @@ Sort:`kaiman_tracker.py`、`track_main.py`、`ssd_detector.py`、`tools.py`
 DeepSort:`deep_sort`目录下
 ByteTrack:`bytetrack_tracker`目录下
 对于bytetrack算法所做的改进部分集中在`bytetrack_tracker/byte_tracker.py`文件中
+
+部分过大的权重文件：
+链接：https://pan.baidu.com/s/1ZWL9O13SGU5_n4rrJt8TBw 
+提取码：jyvn 
+--来自百度网盘超级会员V2的分享
